@@ -1,0 +1,12 @@
+name: FerrisWeelSpin
+version: 1.0
+author: Rainbow
+description: Spin a Ferris Weel
+main: myPack.Main
+api-version: 1.18
+commands:
+   spin:
+      description: Spinning
+permissions:
+   ferrisweelspin.*:
+      description: Spin the ferrisweel!
